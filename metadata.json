@@ -1,0 +1,5 @@
+{
+  "name": "JobPilot AI",
+  "description": "An intelligent job board where an automated AI agent analyzes your resume and applies to relevant jobs on your behalf.",
+  "requestFramePermissions": []
+}
